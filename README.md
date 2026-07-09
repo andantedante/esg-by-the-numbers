@@ -1,49 +1,9 @@
-# ESG by the Numbers
+## ESG by the Numbers Video Library
 
-**Practical learning notes on ESG, sustainability and climate calculations.**
-
-ESG by the Numbers is a learning series by **ESG Matters** focused on the calculations behind ESG reporting, climate disclosure and sustainability data management.
-
-The series is designed for sustainability professionals, students, consultants, finance teams, supply-chain teams and anyone who needs to understand how ESG metrics are calculated, documented and used in practice.
-
-## Latest video
-
-### Scope 3 Category 4: Upstream Transportation and Distribution Emissions
-
-Watch the video:
-https://www.youtube.com/watch?v=FSy9bb3E340
-
-This episode explains how to calculate **Scope 3 Category 4 emissions**, which cover upstream transportation and distribution of goods and services purchased by an organisation.
-
-## What this episode covers
-
-* What Scope 3 Category 4 emissions are
-* How to identify upstream transportation and distribution activities
-* Common transport modes and emission sources
-* Activity data and emission factors
-* Distance-based and weight-based calculation methods
-* Key reporting considerations under the GHG Protocol
-
-## Why this matters
-
-Understanding Category 4 emissions helps organisations quantify the greenhouse gas emissions associated with transporting and distributing purchased products before they reach the reporting company.
-
-This gives organisations better visibility into upstream supply-chain impacts and helps strengthen the sustainability data behind ESG and climate reporting.
-
-## ESG Matters perspective
-
-A good ESG report is only as strong as the system behind it.
-
-Reliable Scope 3 reporting requires more than a calculation. It depends on clear data ownership, documented assumptions, traceable evidence, appropriate emission factors and practical governance.
-
-ESG Matters helps organisations build sustainability data infrastructure and operating systems that turn ESG reporting pressure into operating confidence.
-
-## Full course
-
-The full course version, including additional explanations, examples and resources, is available on Matters Academy:
-
-[Insert full Matters Academy course link]
-
-## Topics
-
-ESG, Scope 3, GHG accounting, carbon accounting, sustainability reporting, climate reporting, ESG reporting, supply-chain emissions, transportation emissions, GHG Protocol.
+| No. | Topic                                       | Scope / Category         | Video                                                                                           | Duration | Published    | Learning Notes                                                       |
+| --: | ------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------- | -------: | ------------ | -------------------------------------------------------------------- |
+|   1 | Scope 2 Emissions                           | Scope 2                  | [Scope 2 Emissions Explained](INSERT_YOUTUBE_LINK)                                              |     3:44 | 14 May 2026  | [`scope-2-emissions.md`](scope-2-emissions.md)                       |
+|   2 | Direct GHG Emissions                        | Scope 1                  | [Understanding Direct GHG Emissions](INSERT_YOUTUBE_LINK)                                       |     6:30 | 28 May 2026  | [`scope-1-direct-ghg-emissions.md`](scope-1-direct-ghg-emissions.md) |
+|   3 | Purchased Goods, Services and Capital Goods | Scope 3 Category 1 and 2 | [Scope 3 Purchased Goods and Capital Goods Emissions](INSERT_YOUTUBE_LINK)                      |     8:27 | 11 June 2026 | [`scope-3-category-1-2.md`](scope-3-category-1-2.md)                 |
+|   4 | Fuel- and Energy-Related Emissions          | Scope 3 Category 3       | [Calculating Fuel- and Energy-Related Emissions](INSERT_YOUTUBE_LINK)                           |     8:34 | 25 June 2026 | [`scope-3-category-3.md`](scope-3-category-3.md)                     |
+|   5 | Upstream Transportation and Distribution    | Scope 3 Category 4       | [Upstream Transportation & Distribution Emissions](https://www.youtube.com/watch?v=FSy9bb3E340) |     8:59 | 9 July 2026  | [`scope-3-category-4.md`](scope-3-category-4.md)                     |
